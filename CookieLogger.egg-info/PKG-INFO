@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: CookieLogger
+Version: 1.0.0
+Summary: cookie logger for Quantcast test
+Author: Alexandru Ianov
+Author-email: ianov.alex@gmail.com
+Requires-Python: >=3.6

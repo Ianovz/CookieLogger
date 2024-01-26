@@ -1,0 +1,2 @@
+[console_scripts]
+cookie_logger = cookie_logger.main:main
